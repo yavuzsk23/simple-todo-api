@@ -17,7 +17,7 @@ def get_session():
 async def lifespan(app: FastAPI):
     # Create database tables on startup
     SQLModel.metadata.create_all(engine)
-    print("✅ Database initialized successfully.")
+    print(" Database initialized successfully.")
     yield
 
 # ====================== FASTAPI APPLICATION ======================
@@ -37,4 +37,4 @@ def root():
         "status": "active"
     }
 
-print("🚀 Todo API started successfully!")
+print(" Todo API started successfully!")
