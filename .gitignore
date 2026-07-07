@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
 # Learn more about .gitignore:
@@ -48,3 +49,12 @@ Thumbs.db
 *.mov
 *.wmv
 
+=======
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+.DS_Store
+>>>>>>> 72f396d17801323b12bda5ad41902be1545a11f9
