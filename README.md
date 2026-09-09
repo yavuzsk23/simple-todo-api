@@ -16,6 +16,8 @@ A clean and simple REST API for managing tasks, built with **FastAPI** and **SQL
 - SQLModel + SQLite
 - Uvicorn
 
+- Note: This project was developed with AI assistance as part of my learning process
+
 ### Quick Start
 
 ```bash
@@ -29,7 +31,7 @@ uvicorn main:app --reload---
 Eine saubere und einfache REST-API zur Aufgabenverwaltung, entwickelt mit FastAPI und SQLModel.
 
 **Funktionen, Technologien und Start** siehe oben.
-
+Hinweis: Dieses Projekt wurde im Rahmen meines Lernprozesses mit KI-Unterstützung entwickelt
 ---
 
 ## 🇹🇷 Türkçe
@@ -39,5 +41,5 @@ Görev yönetimi için temiz ve basit bir REST API. FastAPI ve SQLModel kullanı
 
 **Özellikler, Teknolojiler ve Çalıştırma** yukarıdaki ile aynıdır.
 
-
+not bu proje öğrenme sürecimin bir parçası olarak yapay zeka  desteğiyle geliştirilmiştir
 
